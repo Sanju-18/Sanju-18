@@ -15,8 +15,8 @@
 
 <hr> 
 <h1> Known Technologies :</h1>
-    - Git version control
-    - Scripting Language: Python
+    <ul><li> Git version control </li>
+    <li> Scripting Language: Python </li></ul>
 
 <!---
 Sanju-18/Sanju-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

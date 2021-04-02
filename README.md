@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Data Warehousing and Data Minning 
 <!-- - 💞️ I’m looking to collaborate on-->
 - 📫 How to reach me 
-    -- Mail id: <a href=" mailto:sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
-    -- Mobile: 6374380455
+    - Mail id: <a href=" mailto:sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
+    - Mobile: 6374380455
 <hr>
-## Academic:
+<h1> Academic:</h1>
 - I'm currently pursuing my bachelor's degree in CSE at Kongu Engineering college with CGPA 9.36
 
 <!---

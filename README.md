@@ -3,7 +3,7 @@
 <!-- - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me 
-    mail id: <a "mailto:sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
+    mail id: <a mailto:"sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
 
 <!---
 Sanju-18/Sanju-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

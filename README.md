@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjana Shuruthy 
 - 👀 I’m interested in Big Data Analytics
-<!-- - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on -->
+- 🌱 I’m currently learning Data Warehousing and Data Minning 
+<!-- - 💞️ I’m looking to collaborate on-->
 - 📫 How to reach me 
     mail id: <a href=" mailto:sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
 

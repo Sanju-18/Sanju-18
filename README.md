@@ -6,8 +6,13 @@
     - Mail id: <a href=" mailto:sanjanashuruthy18@gmail.com">sanjanashuruthy18@gmail.com</a>
     - Mobile: 6374380455
 <hr>
-<h1> Academic:</h1>
+<h1> Academics :</h1>
 - I'm currently pursuing my bachelor's degree in CSE at Kongu Engineering college with CGPA 9.36
+
+<hr>
+<h1> Presentations :</h1>
+    - Big Data Analytics at Madras Institute of Technology, Chrompet
+
 
 <!---
 Sanju-18/Sanju-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

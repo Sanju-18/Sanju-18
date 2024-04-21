@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate low code developer from India</h3>
 
-- 🌱 I’m currently learning **Data warehouse and data mining**
+- 🌱 I’m currently working on **Appian**
 
 - 📫 How to reach me **sanjanashuruthy18@gmail.com**
 
